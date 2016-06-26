@@ -1,4 +1,4 @@
-package goeuro.main;
+package goeuro.solution.goeurosolution;
 
 /**
  * Contains id, name, type, latitude, longitude of some location

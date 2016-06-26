@@ -1,4 +1,4 @@
-package goeuro.main;
+package goeuro.solution.goeurosolution;
 
 import java.io.File;
 import java.io.FileWriter;

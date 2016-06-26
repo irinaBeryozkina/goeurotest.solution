@@ -1,4 +1,4 @@
-package goeuro.main;
+package goeuro.solution.goeurosolution;
 
 import java.io.BufferedReader;
 import java.io.IOException;
