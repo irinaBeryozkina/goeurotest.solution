@@ -1,4 +1,4 @@
-package goeuro.test;
+package goeuro.solution.goeurosolution;
 
 import static org.junit.Assert.assertEquals;
 
@@ -6,8 +6,8 @@ import java.util.List;
 
 import org.junit.Test;
 
-import goeuro.main.GoEuroTestMain;
-import goeuro.main.LocationRecord;
+import goeuro.solution.goeurosolution.GoEuroTestMain;
+import goeuro.solution.goeurosolution.LocationRecord;
 
 public class DataRetreivalTest {
 
